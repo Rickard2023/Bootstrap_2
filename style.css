@@ -1,0 +1,13 @@
+.custom-position { 
+  position: relative; 
+  top: 50%; 
+  left: 40%; 
+} 
+
+.bg-jumbo {
+    background-color: purple;
+}
+.custom-text {
+    position: relative;  
+}
+
